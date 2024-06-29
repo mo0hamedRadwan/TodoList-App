@@ -1,4 +1,4 @@
-import backgoundImage from '../assets/background.jpg';
+import backgoundImage from 'background.jpg';
 
 const images = {
   backgoundImage,
